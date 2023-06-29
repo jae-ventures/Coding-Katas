@@ -1,0 +1,15 @@
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\bin\Debug\net7.0\CSharp Katas.exe
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\bin\Debug\net7.0\CSharp Katas.deps.json
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\bin\Debug\net7.0\CSharp Katas.runtimeconfig.json
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\bin\Debug\net7.0\CSharp Katas.dll
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\bin\Debug\net7.0\CSharp Katas.pdb
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.csproj.AssemblyReference.cache
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.AssemblyInfoInputs.cache
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.AssemblyInfo.cs
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.csproj.CoreCompileInputs.cache
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.dll
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\refint\CSharp Katas.dll
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.pdb
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\CSharp Katas.genruntimeconfig.cache
+C:\Users\Jordan.Glover\Documents\Jordan-workspace\Repos\Coding-Katas\CSharp Katas\obj\Debug\net7.0\ref\CSharp Katas.dll
