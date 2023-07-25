@@ -4,11 +4,7 @@ class Program
     public static void Main(string[] args) {
         // TEST method
         // helloWorld((args.Length > 0) ? args[0] : "World");
-        var timeSpan1 = new TimeSpan(1, 0, 0);
-        var timeSpan2 = TimeSpan.FromHours(1);
-        Console.WriteLine(timeSpan1.Hours + " " + timeSpan2.Hours);
-
-        // Console.WriteLine("");
+        
     }
 
     #region: Kata 1
